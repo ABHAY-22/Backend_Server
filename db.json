@@ -160,6 +160,15 @@
       "price": 286,
       "problem": "Immunity",
       "product_form": "tablets"
-  }
+  },
+  {
+    "name": "Tata 1mg Vitamin D3 Capsule",
+    "image": "https://onemg.gumlet.io/images/q_auto,c_fit,f_auto,w_150,h_150/d3fe87a68c7c4b27a0061dea72209a76/tata-1mg-vitamin-d3-capsule.jpg",
+    "price": 286,
+    "problem": "Immunity",
+    "product_form": "tablets"
+}
+
+
 ]
 }
