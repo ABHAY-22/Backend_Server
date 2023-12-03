@@ -175,6 +175,32 @@
     "price": 286,
     "problem": "Immunity",
     "product_form": "tablets"
+   },
+
+   {
+    "name":"Dr. Natural, Pure Castile Bar Soap",
+    "image":"https://cdn11.bigcommerce.com/s-ilgxsy4t82/images/stencil/640w/products/227720/627273/61kE3EgF0IL._SL1500___23057.1686898406.jpg?c=1",
+    "price": 299,
+    "problem": "Immunity",
+    "product_form": "soap"
+   },
+
+   {
+    "name":"Vegan Soap with Moisturizing Shea Butter and Jojoba Oil for dry skin",
+    "image":"https://cdn11.bigcommerce.com/s-ilgxsy4t82/images/stencil/640w/products/186928/455127/618v453soeL._SL1500___01804.1675072297.jpg?c=1",
+    "price": 305,
+    "problem": "Immunity",
+    "product_form": "soap"
+   },
+
+   {
+    "name":"Venusia Max Intensive Moisturizing Cream For Dry To Very Dry Skin Repairs & Smoothens Skin 150g",
+    "image":"https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1686118239.jpg?dim=700x0&dpr=1&q=100",
+    "price": 500,
+    "problem": "Immunity",
+    "product_form": "cream"
    }
+
+   
 ]
 }
