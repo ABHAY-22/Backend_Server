@@ -167,8 +167,14 @@
     "price": 286,
     "problem": "Immunity",
     "product_form": "tablets"
-}
+},
 
-
+   {
+    "name":"Liveasy Wellness Calcium Magnesium Vitamin D3",
+    "image":"https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1661760061.jpg?dim=700x0&dpr=1&q=100",
+    "price": 286,
+    "problem": "Immunity",
+    "product_form": "tablets"
+   }
 ]
 }
